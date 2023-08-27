@@ -1,26 +1,26 @@
 keys,en,ja
-OPT_FULLSCREEN,Fullscreen,
-OPT_BORDERLESS,Borderless,
-OPT_VSYNC,Vsync,
-OPT_VOLUME_MASTER,Master,
-OPT_VOLUME_BGM,BGM,
-OPT_VOLUME_SFX,SFX,
+OPT_FULLSCREEN,Fullscreen,フルスクリーン
+OPT_BORDERLESS,Borderless,ボーダレス
+OPT_VSYNC,Vsync,垂直同期
+OPT_VOLUME_MASTER,Master,音響決定
+OPT_VOLUME_BGM,BGM,背景音楽
+OPT_VOLUME_SFX,SFX,特殊撮影
 OPT_LANG_EN,English,English
 OPT_LANG_JA,日本語,日本語
-MENU_BACK,Back,
-MENU_START,Play,
-MENU_RESUME,Resume,
-MENU_OPTIONS,Options,
-MENU_QUIT,Quit,
-PAUSE_TEXT,[center]Game is paused,
-Q_COLLECT_TAIYAKI,Collect [b]Taiyaki[/b],
-Q_COLLECT_TAIYAKI_MARKERS,Jump onto the rooftop,
-Q_STAGE2_SQUASH_BUGS,Squash [b]Bug Nests[/b],
-Q_STAGE2_SQUASH_BUGS_MARKERS,Jump on the marked bug nests,
-Q_STAGE2_AFTER_SQUASH,Speak with Kassan,
-Q_STAGE3_SQUASH_BUGS,Squash [b]Bug Nests[/b],
-Q_STAGE3_SIMON_SAYS,Help Kassan get out,
-Q_VISIT_CAMELLIA_ISLAND,Leave the Area,
-Q_COLLECT_DOUGH,Find the [b]Pizza Dough[/b],
-Q_COLLECT_PINEAPPLES,Get some [b]Pineapples[/b],
-Q_COLLECT_PINEAPPLES_MARKERS,Jump onto the stone pillars at the sea,
+MENU_BACK,Back,リタイア
+MENU_START,Play,プレイ
+MENU_RESUME,Resume,戻る
+MENU_OPTIONS,Options,決定
+MENU_QUIT,Quit,閉じる
+PAUSE_TEXT,[center]Game is paused,メニュー
+Q_COLLECT_TAIYAKI,Collect [b]Taiyaki[/b],たい焼きを集める
+Q_COLLECT_TAIYAKI_MARKERS,Jump onto the rooftop,屋上に飛び乗る
+Q_STAGE2_SQUASH_BUGS,Squash [b]Bug Nests[/b],虫の巣をつぶす
+Q_STAGE2_SQUASH_BUGS_MARKERS,Jump on the marked bug nests,標識のある虫の巣に飛び乗る
+Q_STAGE2_AFTER_SQUASH,Speak with Kassan,かっさんと話す
+Q_STAGE3_SQUASH_BUGS,Squash [b]Bug Nests[/b],虫の巣をつぶす
+Q_STAGE3_SIMON_SAYS,Help Kassan get out,かっさんを助ける
+Q_VISIT_CAMELLIA_ISLAND,Leave the Area,場を離れる
+Q_COLLECT_DOUGH,Find the [b]Pizza Dough[/b],ピザ生地を探すしよう
+Q_COLLECT_PINEAPPLES,Get some [b]Pineapples[/b],パイナップルを手に入れるしよう
+Q_COLLECT_PINEAPPLES_MARKERS,Jump onto the stone pillars at the sea,海の石柱に飛び乗るしよう
